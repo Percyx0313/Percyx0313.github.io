@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<search> 
+  
+  
+    
+    <entry>
+      <title>為什麼想要寫部落格</title>
+      <link href="/2024/09/19/hello-world/"/>
+      <url>/2024/09/19/hello-world/</url>
+      
+        <content type="html"><![CDATA[<h2 id="自我介紹"><a href="#自我介紹" class="headerlink" title="自我介紹"></a>自我介紹</h2><p>我是一個技術愛好者，對於數學、資工領域都非常感興趣。 先講講我的背景好了。</p><p>大學 114數學 –&gt; 碩士 114 資工 –&gt; MTK</p><p>我是一個很熱愛分享技術知識的人，喜歡把事情原理搞清楚，並分享給其他人。因為之後上班後就沒有時間接家教了所以少了一個分享技術的地方，因此想要藉由Blog分享技術或是一些以前念數學的細節。</p><!-- ## ### Create a new post<figure class="highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">$ hexo new <span class="string">&quot;My New Post&quot;</span></span><br></pre></td></tr></table></figure><p>More info: <a href="https://hexo.io/docs/writing.html">Writing</a></p><h3 id="Run-server"><a href="#Run-server" class="headerlink" title="Run server"></a>Run server</h3><figure class="highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">$ hexo server</span><br></pre></td></tr></table></figure><p>More info: <a href="https://hexo.io/docs/server.html">Server</a></p><h3 id="Generate-static-files"><a href="#Generate-static-files" class="headerlink" title="Generate static files"></a>Generate static files</h3><figure class="highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">$ hexo generate</span><br></pre></td></tr></table></figure><p>More info: <a href="https://hexo.io/docs/generating.html">Generating</a></p><h3 id="Deploy-to-remote-sites"><a href="#Deploy-to-remote-sites" class="headerlink" title="Deploy to remote sites"></a>Deploy to remote sites</h3><figure class="highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">$ hexo deploy</span><br></pre></td></tr></table></figure><p>More info: <a href="https://hexo.io/docs/one-command-deployment.html">Deployment</a> –&gt;</p>]]></content>
+      
+      
+      
+    </entry>
+    
+    
+  
+  
+</search>
