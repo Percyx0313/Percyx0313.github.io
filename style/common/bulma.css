@@ -412,7 +412,7 @@ span {
 
 strong {
   color: #363636;
-  font-weight: 700;
+  font-weight: 1.2em;
 }
 
 fieldset {
@@ -11622,3 +11622,9 @@ a.has-text-danger-dark:hover, a.has-text-danger-dark:focus {
   padding: 3rem 1.5rem 6rem;
 }
 /*# sourceMappingURL=bulma.css.map */
+
+strong {
+  font-weight: bold;
+  font-size: 1.2em; /* 調整文字大小 */
+  color: #ff0000;   /* 使用顯眼的顏色 */
+}
